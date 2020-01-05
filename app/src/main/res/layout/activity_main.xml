@@ -35,7 +35,7 @@
                 android:layout_below="@+id/viewColor"
                 android:layout_alignParentRight="true"
                 android:layout_marginTop="9dp"
-                android:layout_marginRight="80dp"
+                android:layout_marginRight="60dp"
                 android:text="//RGB"/>
         </RelativeLayout>
     </LinearLayout>
